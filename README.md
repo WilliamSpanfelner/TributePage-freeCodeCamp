@@ -3,8 +3,7 @@
 # Tribute Page
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 This Tribute Page project is a component of the FreeCodeCamp Responsive Web Design Certification course.
-     Check out the [project specifications](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
-- 🌱 and the curiculum for the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design).  
+- 🌱 Check out the [project specifications](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and the curiculum for the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design).  
 - 🧑‍💻 The Product Landing Page employs flex and grid to style various components. 
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me...
